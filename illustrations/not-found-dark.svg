@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Ball landing just outside the court line">
+  <title>Ball landing just outside the court line</title>
+  <defs><clipPath id="disc"><circle cx="100" cy="102" r="86"/></clipPath></defs>
+  <circle cx="100" cy="102" r="86" fill="#161616"/>
+  <g clip-path="url(#disc)">
+    <rect x="0" y="0" width="200" height="200" fill="#222222"/>
+    <polygon points="0,200 0,40 122,40 94,200" fill="#0086F6"/>
+    <polygon points="116,40 122,40 94,200 88,200" fill="#F2F6FA"/>
+    <polygon points="0,90 113.2,90 112.2,95.5 0,95.5" fill="#F2F6FA"/>
+    <path d="M118 150 L134 147" stroke="#3A3F47" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="141" cy="147" rx="13" ry="3.5" fill="#000000" opacity="0.55"/>
+    
+  <g id="ball-nf">
+    <clipPath id="bc-nf"><circle cx="141" cy="131" r="14"/></clipPath>
+    <circle cx="141" cy="131" r="14" fill="#D4F24A"/>
+    <g clip-path="url(#bc-nf)">
+      <circle cx="147.46153846153845" cy="138.53846153846155" r="14" fill="#B6D62E" opacity="0.55"/>
+      <path d="M130.23076923076923 121.3076923076923 C138.84615384615384 126.6923076923077 138.84615384615384 135.30769230769232 130.23076923076923 140.69230769230768" fill="none" stroke="#FFFFFF" stroke-width="2.37" stroke-linecap="round"/>
+      <path d="M151.76923076923077 121.3076923076923 C143.15384615384616 126.6923076923077 143.15384615384616 135.30769230769232 151.76923076923077 140.69230769230768" fill="none" stroke="#FFFFFF" stroke-width="2.37" stroke-linecap="round"/>
+    </g>
+  </g>
+    <g stroke="#6B7380" stroke-width="2.4" stroke-linecap="round">
+      <path d="M160 128 L168 124"/><path d="M161 137 L170 138"/><path d="M155 119 L160 112"/>
+    </g>
+  </g>
+</svg>

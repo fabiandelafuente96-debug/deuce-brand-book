@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Court being resurfaced with a squeegee and cones">
+  <title>Court being resurfaced with a squeegee and cones</title>
+  <defs><clipPath id="disc"><circle cx="100" cy="102" r="86"/></clipPath></defs>
+  <circle cx="100" cy="102" r="86" fill="#EEF3F9"/>
+  <g clip-path="url(#disc)">
+    <rect x="0" y="140" width="200" height="60" fill="#0086F6"/>
+    <g stroke="#3FA2FF" stroke-width="5" stroke-linecap="round" opacity="0.8">
+      <path d="M30 168 L100 158"/><path d="M40 182 L104 172"/>
+    </g>
+    <path d="M70 150 L118 62" stroke="#2A2F36" stroke-width="5" stroke-linecap="round"/>
+    <g transform="rotate(-10 66 152)">
+      <rect x="40" y="147" width="52" height="9" rx="2.5" fill="#2A2F36"/>
+      <rect x="42" y="156" width="48" height="4" rx="1.5" fill="#C9D1DB"/>
+    </g>
+    
+    <rect x="104.36" y="148" width="35.28" height="6" rx="2" fill="#E06A1F"/>
+    <polygon points="108.36,148 135.64,148 124.64,108 119.36,108" fill="#FF8A3D"/>
+    <polygon points="112.1792,136.16 131.8208,136.16 129.6384,127.8 114.3616,127.8" fill="#FFFFFF"/>
+    
+    <rect x="134.7" y="154" width="26.6" height="6" rx="2" fill="#E06A1F"/>
+    <polygon points="138.7,154 157.3,154 149.8,128 146.2,128" fill="#FF8A3D"/>
+    <polygon points="141.304,147.2 154.696,147.2 153.208,141.5 142.792,141.5" fill="#FFFFFF"/>
+  </g>
+</svg>
